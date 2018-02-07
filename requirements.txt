@@ -1,2 +1,6 @@
 Flask==0.10.1
 Jinja2==2.9.6
+pushbullet-cli==0.7.6
+pushbullet.py==0.11.0
+selenium==3.8.0
+beautifulsoup4==4.6.0
