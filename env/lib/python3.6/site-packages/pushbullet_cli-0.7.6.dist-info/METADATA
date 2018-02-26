@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: pushbullet-cli
+Version: 0.7.6
+Summary: Command line tool for controlling PushBullet
+Home-page: https://github.com/GustavoKatel/pushbullet-cli
+Author: Roey Darwish Dror
+Author-email: roey.ghost@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: click
+Requires-Dist: keyring (>=8.2)
+Requires-Dist: keyrings.alt
+Requires-Dist: pushbullet.py (>=0.9.0)
+
+UNKNOWN
+
+
