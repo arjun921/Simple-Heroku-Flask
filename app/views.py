@@ -2,9 +2,6 @@ from flask import render_template
 import os
 from app import app
 
-def push(stri):
-    os.system("pb push \""+stri+"\"")
-
 
 # Web page renders
 @app.route('/')
@@ -34,5 +31,4 @@ def storeData(bal):
     fopen = open('balance','w')
     fopen.write(bal)
     fopen.close()
-    push(bal)
     return 'Balance Updated, {}!'.format(bal)
