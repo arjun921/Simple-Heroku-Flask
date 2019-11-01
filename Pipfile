@@ -15,7 +15,7 @@ itsdangerous = "==0.24"
 Flask = "==0.12.2"
 Jinja2 = "==2.10"
 MarkupSafe = "==1.0"
-Werkzeug = "==0.14.1"
+Werkzeug = "==0.15.3"
 
 [requires]
 python_version = "3.6"
